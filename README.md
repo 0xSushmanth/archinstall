@@ -18,7 +18,7 @@ Having a Home Partition (can be the same as Root but i don't recommend it, Will 
 
 2: pacman -Sy git
 
-3: git clone https://github.com/K-arch27/archscript.git
+3: git clone https://github.com/NINJA-543/archinstall/
 
 4: cd archscript
 
